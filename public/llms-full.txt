@@ -2,13 +2,13 @@
 
 A computer and phone repair service business offering technical repair solutions for customers with broken or malfunctioning devices. The business focuses on fixing both computers and mobile phones, suggesting a broad technical repair service.
 
-Source: https://myphone-20a17a1b.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תיקון מחשבים וטלפונים קרוב אליך — Myphone - מי פון  תיקונים של מקצוענים
 
-URL: https://myphone-20a17a1b.zappy5.app
+URL: https://example.com
 Description: מחפשים תיקון מחשבים וטלפונים של מקצוענים? ב-Myphone נחזיר לכם את המכשיר לחיים במהירות ובאמינות. שירות אדיב, מחירים הוגנים ופתרונות מיידיים לכל התקלות. צרו קשר עוד היום!
 
 תיקון מחשבים וטלפונים קרוב אליך — Myphone - מי פון  תיקונים של מקצוענים
@@ -527,7 +527,7 @@ Description: מחפשים תיקון מחשבים וטלפונים של מקצו
 
 ## כל פתרון טכני שצריך למכשיר שלך — Myphone - מי פון  תיקונים של מקצוענים
 
-URL: https://myphone-20a17a1b.zappy5.app/services
+URL: https://example.com/services
 Description: מסך שבור, סוללה חלשה או לוח אם שרוף? גלו את מגוון שירותי תיקון המחשבים והטלפונים שלנו. אבחון מדויק, חלקים איכותיים ועבודה מהירה שתחסוך לכם זמן וכסף. היכנסו לראות איך אנחנו יכולים לעזור!
 
 כל פתרון טכני שצריך למכשיר שלך — Myphone - מי פון  תיקונים של מקצוענים
@@ -1048,7 +1048,7 @@ Description: מסך שבור, סוללה חלשה או לוח אם שרוף? ג�
 
 ## הצוות שמאחורי התיקונים המושלמים — Myphone - מי פון  תיקונים של מקצוענים
 
-URL: https://myphone-20a17a1b.zappy5.app/about
+URL: https://example.com/about
 Description: ב-Myphone אנחנו לא רק מתקנים מכשירים – אנחנו מחזירים שקט נפשי. הכירו את צוות המומחים שלנו עם ניסיון של שנים בתיקון מחשבים וטלפונים, המחויב למצוינות ושירות אישי. בואו להכיר את האנשים שיטפלו במכשיר שלכם!
 
 הצוות שמאחורי התיקונים המושלמים — Myphone - מי פון  תיקונים של מקצוענים
@@ -1472,7 +1472,7 @@ Description: ב-Myphone אנחנו לא רק מתקנים מכשירים – א�
 
 ## תשובות מהירות לכל שאלה על תיקונים — Myphone - מי פון  תיקונים של מקצוענים
 
-URL: https://myphone-20a17a1b.zappy5.app/faq
+URL: https://example.com/faq
 Description: כמה זמן לוקח תיקון? האם יש אחריות? קבלו תשובות לשאלות הנפוצות ביותר על תיקון מחשבים וטלפונים. כל מה שרציתם לדעת לפני שמביאים את המכשיר למעבדה – במקום אחד. גללו וגלו!
 
 תשובות מהירות לכל שאלה על תיקונים — Myphone - מי פון  תיקונים של מקצוענים
@@ -1866,7 +1866,7 @@ Description: כמה זמן לוקח תיקון? האם יש אחריות? קבל
 
 ## דברו איתנו ונתחיל לתקן עכשיו — Myphone - מי פון  תיקונים של מקצוענים
 
-URL: https://myphone-20a17a1b.zappy5.app/contact
+URL: https://example.com/contact
 Description: המכשיר שלכם זקוק לעזרה דחופה? צרו קשר עם Myphone עוד היום! השאירו פרטים, התקשרו או קפצו למעבדה – וניתן לכם הצעת מחיר משתלמת לתיקון מחשבים וטלפונים. אנחנו כאן בשבילכם!
 
 דברו איתנו ונתחיל לתקן עכשיו — Myphone - מי פון  תיקונים של מקצוענים
@@ -2300,7 +2300,7 @@ Description: המכשיר שלכם זקוק לעזרה דחופה? צרו קשר
 
 ## מוצרים
 
-URL: https://myphone-20a17a1b.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Myphone - מי פון  תיקונים של מקצוענים
 
 מוצרים - Myphone - מי פון  תיקונים של מקצוענים
@@ -2710,7 +2710,7 @@ Description: המוצרים שלנו - Myphone - מי פון  תיקונים ש�
 
 ## עגלת קניות
 
-URL: https://myphone-20a17a1b.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Myphone - מי פון  תיקונים של מקצוענים
@@ -2962,7 +2962,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://myphone-20a17a1b.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Myphone - מי פון  תיקונים של מקצוענים
@@ -3400,7 +3400,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://myphone-20a17a1b.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Myphone - מי פון  תיקונים של מקצוענים
@@ -3659,7 +3659,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://myphone-20a17a1b.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Myphone - מי פון  תיקונים של מקצוענים
@@ -4073,7 +4073,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://myphone-20a17a1b.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Myphone - מי פון  תיקונים של מקצוענים
@@ -4349,7 +4349,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://myphone-20a17a1b.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Myphone - מי פון  תיקונים של מקצוענים
@@ -4654,7 +4654,7 @@ Myphone - מי פון תיקונים של מקצוענים מחויבת לשבי
 
 ## פרטי המוצר
 
-URL: https://myphone-20a17a1b.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Myphone - מי פון  תיקונים של מקצוענים
 
 פרטי המוצר - Myphone - מי פון  תיקונים של מקצוענים
@@ -4908,7 +4908,7 @@ Description: פרטי המוצר - Myphone - מי פון  תיקונים של מ
 
 ## מוצרים
 
-URL: https://myphone-20a17a1b.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Myphone - מי פון  תיקונים של מקצוענים
 
 מוצרים - Myphone - מי פון  תיקונים של מקצוענים
@@ -5186,7 +5186,7 @@ Description: מוצרים - Myphone - מי פון  תיקונים של מקצו�
 
 ## מדיניות פרטיות
 
-URL: https://myphone-20a17a1b.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5466,7 +5466,7 @@ Myphone - מי פון תיקונים של מקצוענים ("החברה", "אנ�
 
 ## הצהרת נגישות
 
-URL: https://myphone-20a17a1b.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5755,7 +5755,7 @@ Myphone - מי פון תיקונים של מקצוענים מחויבת להנג
 
 ## תנאי שימוש
 
-URL: https://myphone-20a17a1b.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -6063,7 +6063,7 @@ Myphone - מי פון תיקונים של מקצוענים מספקת Computer &
 
 ## תודה רבה - מי פון
 
-URL: https://myphone-20a17a1b.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. קיבלנו את הודעתך ונחזור אליך בהקדם עם פתרון מקצועי לתיקון המחשב או הטלפון שלך.
 
 תודה רבה - מי פון
